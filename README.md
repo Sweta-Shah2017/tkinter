@@ -1,2 +1,2 @@
-# tkinter
-notedpad
+# tkinter -An Amenzing Project
+NotedPad
